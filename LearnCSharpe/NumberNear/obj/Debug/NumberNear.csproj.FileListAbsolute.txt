@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\bin\Debug\NumberNear.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\bin\Debug\NumberNear.exe
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\bin\Debug\NumberNear.pdb
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\obj\Debug\NumberNear.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\obj\Debug\NumberNear.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\obj\Debug\NumberNear.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\obj\Debug\NumberNear.exe
+C:\Users\luong\source\repos\LearnCSharpe\NumberNear\obj\Debug\NumberNear.pdb

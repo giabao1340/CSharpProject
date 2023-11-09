@@ -1,0 +1,72 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Eculid
+{
+    internal class Program
+    {
+        static void NhapDuLieu(out int[,] a, out int[,] b)
+        {
+            Console.WriteLine("Nhap du lieu: ");
+            string data = Console.ReadLine();
+            string[] nums = data.Split(' ');
+            int rows = int.Parse(nums[0]);
+            int cols = int.Parse(nums[1]);
+            a = new int[rows, cols];
+            b = new int[rows, cols];
+            for (int i = 0; i < rows; i++)
+            {
+                data = Console.ReadLine();
+                nums = data.Split(' ');
+                for (int j = 0; j < cols; j++)
+                {
+                    a[i, j] = int.Parse(nums[j]);
+                }
+            }
+            for (int i = 0; i < rows; i++)
+            {
+                data = Console.ReadLine();
+                nums = data.Split(' ');
+                for (int j = 0; j < cols; j++)
+                {
+                    b[i, j] = int.Parse(nums[j]);
+                }
+            }
+        }
+        static void xuatMang(int[,] a)
+        {
+            for (int i = 0; i < a.GetLength(0); i++)
+            {
+                for (int j = 0; j < a.GetLength(1); j++)
+                {
+                    Console.Write($"A[{i},{j}] = {a[i, j],-5} ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+        static double Eculid(int[,] a, int[,] b)
+        {
+            double s = 0;
+            for (int i = 0; i < a.GetLength(0); i++)
+            {
+                for (int j = 0; j < a.GetLength(1); j++)
+                {
+                    s += Math.Pow(a[i, j] - b[i, j], 2);
+                }
+            }
+            return Math.Round(Math.Sqrt(s), 2);
+        }
+        static void Main(string[] args)
+        {
+            int[,] a, b;
+            NhapDuLieu(out a, out b);
+            xuatMang(a);
+            xuatMang(b);
+            Console.WriteLine(Eculid(a, b));
+        }
+    }
+}

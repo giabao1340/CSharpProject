@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\bin\Debug\SumMatrix.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\bin\Debug\SumMatrix.exe
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\bin\Debug\SumMatrix.pdb
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\obj\Debug\SumMatrix.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\obj\Debug\SumMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\obj\Debug\SumMatrix.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\obj\Debug\SumMatrix.exe
+C:\Users\luong\source\repos\LearnCSharpe\SumMatrix\obj\Debug\SumMatrix.pdb

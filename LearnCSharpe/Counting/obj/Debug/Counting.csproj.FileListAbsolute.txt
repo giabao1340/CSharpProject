@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Counting\bin\Debug\Counting.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Counting\bin\Debug\Counting.exe
+C:\Users\luong\source\repos\LearnCSharpe\Counting\bin\Debug\Counting.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Counting\obj\Debug\Counting.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Counting\obj\Debug\Counting.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Counting\obj\Debug\Counting.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Counting\obj\Debug\Counting.exe
+C:\Users\luong\source\repos\LearnCSharpe\Counting\obj\Debug\Counting.pdb

@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\Buoi 7\Bai 1\bin\Debug\Person.exe.config
+C:\Users\luong\source\repos\Buoi 7\Bai 1\bin\Debug\Person.exe
+C:\Users\luong\source\repos\Buoi 7\Bai 1\bin\Debug\Person.pdb
+C:\Users\luong\source\repos\Buoi 7\Bai 1\obj\Debug\Bai_1.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\Buoi 7\Bai 1\obj\Debug\Bai_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\Buoi 7\Bai 1\obj\Debug\Bai_1.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\Buoi 7\Bai 1\obj\Debug\Person.exe
+C:\Users\luong\source\repos\Buoi 7\Bai 1\obj\Debug\Person.pdb

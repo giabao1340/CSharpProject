@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\bin\Debug\NhanHaiMaTran.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\bin\Debug\NhanHaiMaTran.exe
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\bin\Debug\NhanHaiMaTran.pdb
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\obj\Debug\NhanHaiMaTran.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\obj\Debug\NhanHaiMaTran.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\obj\Debug\NhanHaiMaTran.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\obj\Debug\NhanHaiMaTran.exe
+C:\Users\luong\source\repos\LearnCSharpe\NhanHaiMaTran\obj\Debug\NhanHaiMaTran.pdb

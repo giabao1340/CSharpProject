@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\bin\Debug\Super fast fibonacy.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\bin\Debug\Super fast fibonacy.exe
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\bin\Debug\Super fast fibonacy.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\obj\Debug\Super fast fibonacy.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\obj\Debug\Super fast fibonacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\obj\Debug\Super fast fibonacy.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\obj\Debug\Super fast fibonacy.exe
+C:\Users\luong\source\repos\LearnCSharpe\Super fast fibonacy\obj\Debug\Super fast fibonacy.pdb

@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\bin\Debug\Rectangle.exe.config
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\bin\Debug\Rectangle.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\bin\Debug\Rectangle.pdb
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\obj\Debug\Buoi 6 Bai 3.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\obj\Debug\Buoi 6 Bai 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\obj\Debug\Buoi 6 Bai 3.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\obj\Debug\Rectangle.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 6 Bai 3\obj\Debug\Rectangle.pdb

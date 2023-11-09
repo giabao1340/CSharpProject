@@ -1,0 +1,7 @@
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\obj\Debug\Buoi 9 Bai 1.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\obj\Debug\Buoi 9 Bai 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\obj\Debug\Buoi 9 Bai 1.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\obj\Debug\Shape.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\obj\Debug\Shape.pdb
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\bin\Debug\Shape.exe.config
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 9 Bai 1\bin\Debug\Shape.exe

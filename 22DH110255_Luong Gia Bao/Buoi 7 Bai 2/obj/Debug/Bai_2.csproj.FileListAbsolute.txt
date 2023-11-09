@@ -1,0 +1,16 @@
+C:\Users\luong\source\repos\Buoi 8\Bai_2\bin\Debug\Fraction.exe.config
+C:\Users\luong\source\repos\Buoi 8\Bai_2\bin\Debug\Fraction.exe
+C:\Users\luong\source\repos\Buoi 8\Bai_2\bin\Debug\Fraction.pdb
+C:\Users\luong\source\repos\Buoi 8\Bai_2\obj\Debug\Bai_2.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\Buoi 8\Bai_2\obj\Debug\Bai_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\Buoi 8\Bai_2\obj\Debug\Bai_2.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\Buoi 8\Bai_2\obj\Debug\Fraction.exe
+C:\Users\luong\source\repos\Buoi 8\Bai_2\obj\Debug\Fraction.pdb
+C:\Users\luong\source\repos\Buoi 7\Bai 2\bin\Debug\Fraction.exe.config
+C:\Users\luong\source\repos\Buoi 7\Bai 2\bin\Debug\Fraction.exe
+C:\Users\luong\source\repos\Buoi 7\Bai 2\bin\Debug\Fraction.pdb
+C:\Users\luong\source\repos\Buoi 7\Bai 2\obj\Debug\Bai_2.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\Buoi 7\Bai 2\obj\Debug\Bai_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\Buoi 7\Bai 2\obj\Debug\Bai_2.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\Buoi 7\Bai 2\obj\Debug\Fraction.exe
+C:\Users\luong\source\repos\Buoi 7\Bai 2\obj\Debug\Fraction.pdb

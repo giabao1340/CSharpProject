@@ -1,0 +1,21 @@
+D:\Operating System\22DH110255_Lab2\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Operating System\22DH110255_Lab2\LinkedList\bin\Debug\LinkedList.exe
+D:\Operating System\22DH110255_Lab2\LinkedList\bin\Debug\LinkedList.pdb
+D:\Operating System\22DH110255_Lab2\LinkedList\obj\Debug\DSLKDon.csproj.AssemblyReference.cache
+D:\Operating System\22DH110255_Lab2\LinkedList\obj\Debug\DSLKDon.csproj.CoreCompileInputs.cache
+D:\Operating System\22DH110255_Lab2\LinkedList\obj\Debug\LinkedList.exe
+D:\Operating System\22DH110255_Lab2\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\luong\source\repos\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\luong\source\repos\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\luong\source\repos\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\luong\source\repos\LinkedList\obj\Debug\DSLKDon.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LinkedList\obj\Debug\DSLKDon.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\luong\source\repos\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\obj\Debug\DSLKDon.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\obj\Debug\DSLKDon.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\luong\source\repos\DATA STRUCTURE AND ALGOTHISM\LinkedList\obj\Debug\LinkedList.pdb

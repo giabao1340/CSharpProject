@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\bin\Debug\Backward techniques.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\bin\Debug\Backward techniques.exe
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\bin\Debug\Backward techniques.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\obj\Debug\Divede to conquer.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\obj\Debug\Divede to conquer.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\obj\Debug\Divede to conquer.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\obj\Debug\Backward techniques.exe
+C:\Users\luong\source\repos\LearnCSharpe\Backward techniques\obj\Debug\Backward techniques.pdb

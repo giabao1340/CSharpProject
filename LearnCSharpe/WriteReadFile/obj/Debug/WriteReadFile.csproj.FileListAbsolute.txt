@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\bin\Debug\WriteReadFile.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\bin\Debug\WriteReadFile.exe
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\bin\Debug\WriteReadFile.pdb
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\obj\Debug\WriteReadFile.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\obj\Debug\WriteReadFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\obj\Debug\WriteReadFile.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\obj\Debug\WriteReadFile.exe
+C:\Users\luong\source\repos\LearnCSharpe\WriteReadFile\obj\Debug\WriteReadFile.pdb

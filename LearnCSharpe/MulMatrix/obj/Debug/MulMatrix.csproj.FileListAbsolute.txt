@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\bin\Debug\MulMatrix.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\bin\Debug\MulMatrix.exe
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\bin\Debug\MulMatrix.pdb
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\obj\Debug\MulMatrix.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\obj\Debug\MulMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\obj\Debug\MulMatrix.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\obj\Debug\MulMatrix.exe
+C:\Users\luong\source\repos\LearnCSharpe\MulMatrix\obj\Debug\MulMatrix.pdb

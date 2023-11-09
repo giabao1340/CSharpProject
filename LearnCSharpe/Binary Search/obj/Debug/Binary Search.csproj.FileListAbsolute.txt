@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\obj\Debug\Binary Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\luong\source\repos\LearnCSharpe\Binary Search\obj\Debug\Binary Search.pdb

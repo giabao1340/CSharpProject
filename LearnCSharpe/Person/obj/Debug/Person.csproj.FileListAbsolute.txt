@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Person\bin\Debug\Person.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Person\bin\Debug\Person.exe
+C:\Users\luong\source\repos\LearnCSharpe\Person\bin\Debug\Person.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Person\obj\Debug\Person.exe
+C:\Users\luong\source\repos\LearnCSharpe\Person\obj\Debug\Person.pdb

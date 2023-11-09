@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Date\bin\Debug\Date.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Date\bin\Debug\Date.exe
+C:\Users\luong\source\repos\LearnCSharpe\Date\bin\Debug\Date.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Date\obj\Debug\Date.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Date\obj\Debug\Date.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Date\obj\Debug\Date.exe
+C:\Users\luong\source\repos\LearnCSharpe\Date\obj\Debug\Date.pdb

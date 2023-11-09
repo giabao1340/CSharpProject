@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\bin\Debug\NhanHaiMaTran.exe.config
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\bin\Debug\NhanHaiMaTran.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\bin\Debug\NhanHaiMaTran.pdb
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\obj\Debug\Buoi 2 Bai 2.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\obj\Debug\Buoi 2 Bai 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\obj\Debug\Buoi 2 Bai 2.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\obj\Debug\NhanHaiMaTran.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 Bai 2\obj\Debug\NhanHaiMaTran.pdb

@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\bin\Debug\BigNum.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\bin\Debug\BigNum.exe
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\bin\Debug\BigNum.pdb
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\obj\Debug\BigNum.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\obj\Debug\BigNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\obj\Debug\BigNum.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\obj\Debug\BigNum.exe
+C:\Users\luong\source\repos\LearnCSharpe\BigNum\obj\Debug\BigNum.pdb

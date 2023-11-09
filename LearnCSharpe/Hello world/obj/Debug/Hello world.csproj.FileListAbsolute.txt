@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\bin\Debug\Hello world.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\bin\Debug\Hello world.exe
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\bin\Debug\Hello world.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\obj\Debug\Hello world.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\obj\Debug\Hello world.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\obj\Debug\Hello world.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\obj\Debug\Hello world.exe
+C:\Users\luong\source\repos\LearnCSharpe\Hello world\obj\Debug\Hello world.pdb

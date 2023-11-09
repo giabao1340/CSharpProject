@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\bin\Debug\TamGiacCan.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\bin\Debug\TamGiacCan.exe
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\bin\Debug\TamGiacCan.pdb
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\obj\Debug\TamGiacCan.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\obj\Debug\TamGiacCan.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\obj\Debug\TamGiacCan.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\obj\Debug\TamGiacCan.exe
+C:\Users\luong\source\repos\LearnCSharpe\TamGiacCan\obj\Debug\TamGiacCan.pdb

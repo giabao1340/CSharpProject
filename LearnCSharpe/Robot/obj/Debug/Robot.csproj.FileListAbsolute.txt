@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Robot\bin\Debug\Robot.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Robot\bin\Debug\Robot.exe
+C:\Users\luong\source\repos\LearnCSharpe\Robot\bin\Debug\Robot.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Robot\obj\Debug\Robot.exe
+C:\Users\luong\source\repos\LearnCSharpe\Robot\obj\Debug\Robot.pdb

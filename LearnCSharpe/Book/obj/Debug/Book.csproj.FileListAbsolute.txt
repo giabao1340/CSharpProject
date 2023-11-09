@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\obj\Debug\Book.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\luong\source\repos\LearnCSharpe\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

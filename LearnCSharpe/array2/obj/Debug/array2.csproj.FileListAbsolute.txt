@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\array2\bin\Debug\array2.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\array2\bin\Debug\array2.exe
+C:\Users\luong\source\repos\LearnCSharpe\array2\bin\Debug\array2.pdb
+C:\Users\luong\source\repos\LearnCSharpe\array2\obj\Debug\array2.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\array2\obj\Debug\array2.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\array2\obj\Debug\array2.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\array2\obj\Debug\array2.exe
+C:\Users\luong\source\repos\LearnCSharpe\array2\obj\Debug\array2.pdb

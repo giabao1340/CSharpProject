@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\bin\Debug\DoanhThu.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\bin\Debug\DoanhThu.exe
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\bin\Debug\DoanhThu.pdb
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\obj\Debug\DoanhThu.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\obj\Debug\DoanhThu.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\obj\Debug\DoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\obj\Debug\DoanhThu.exe
+C:\Users\luong\source\repos\LearnCSharpe\DoanhThu\obj\Debug\DoanhThu.pdb

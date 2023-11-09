@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\bin\Debug\TruCatch.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\bin\Debug\TruCatch.exe
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\bin\Debug\TruCatch.pdb
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\obj\Debug\TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\obj\Debug\TruCatch.exe
+C:\Users\luong\source\repos\LearnCSharpe\TruCatch\obj\Debug\TruCatch.pdb

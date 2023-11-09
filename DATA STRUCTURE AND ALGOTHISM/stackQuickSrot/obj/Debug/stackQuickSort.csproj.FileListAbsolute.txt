@@ -1,0 +1,7 @@
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\bin\Debug\stackQuickSrot.exe.config
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\bin\Debug\stackQuickSrot.exe
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\bin\Debug\stackQuickSrot.pdb
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\obj\Debug\stackQuickSort.csproj.AssemblyReference.cache
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\obj\Debug\stackQuickSort.csproj.CoreCompileInputs.cache
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\obj\Debug\stackQuickSrot.exe
+D:\CTDLGT\DATA STRUCTURE AND ALGOTHISM\stackQuickSrot\obj\Debug\stackQuickSrot.pdb

@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\bin\Debug\HePhuongTrinh.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\bin\Debug\HePhuongTrinh.exe
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\bin\Debug\HePhuongTrinh.pdb
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\obj\Debug\HePhuongTrinh.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\obj\Debug\HePhuongTrinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\obj\Debug\HePhuongTrinh.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\obj\Debug\HePhuongTrinh.exe
+C:\Users\luong\source\repos\LearnCSharpe\HePhuongTrinh\obj\Debug\HePhuongTrinh.pdb

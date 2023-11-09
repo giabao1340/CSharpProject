@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\bin\Debug\SumMatrix.exe.config
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\bin\Debug\SumMatrix.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\bin\Debug\SumMatrix.pdb
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\obj\Debug\Buoi 2 Bai 1.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\obj\Debug\Buoi 2 Bai 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\obj\Debug\Buoi 2 Bai 1.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\obj\Debug\SumMatrix.exe
+C:\Users\luong\source\repos\22DH110255_Luong Gia Bao\Buoi 2 bai 1\obj\Debug\SumMatrix.pdb

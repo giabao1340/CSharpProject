@@ -1,0 +1,7 @@
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\bin\Debug\xinloi.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\bin\Debug\xinloi.exe
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\bin\Debug\xinloi.pdb
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\obj\Debug\xinloi.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\obj\Debug\xinloi.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\obj\Debug\xinloi.exe
+C:\Users\luong\source\repos\LearnCSharpe\xinloi\obj\Debug\xinloi.pdb

@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\bin\Debug\Eculid.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\bin\Debug\Eculid.exe
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\bin\Debug\Eculid.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\obj\Debug\Eculid.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\obj\Debug\Eculid.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\obj\Debug\Eculid.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\obj\Debug\Eculid.exe
+C:\Users\luong\source\repos\LearnCSharpe\Eculid\obj\Debug\Eculid.pdb

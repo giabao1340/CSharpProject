@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\TBC\bin\Debug\TBC.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\TBC\bin\Debug\TBC.exe
+C:\Users\luong\source\repos\LearnCSharpe\TBC\bin\Debug\TBC.pdb
+C:\Users\luong\source\repos\LearnCSharpe\TBC\obj\Debug\TBC.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\TBC\obj\Debug\TBC.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\TBC\obj\Debug\TBC.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\TBC\obj\Debug\TBC.exe
+C:\Users\luong\source\repos\LearnCSharpe\TBC\obj\Debug\TBC.pdb

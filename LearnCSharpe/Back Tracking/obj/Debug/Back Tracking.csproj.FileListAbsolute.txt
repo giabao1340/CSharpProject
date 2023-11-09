@@ -1,0 +1,8 @@
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\bin\Debug\Back Tracking.exe.config
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\bin\Debug\Back Tracking.exe
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\bin\Debug\Back Tracking.pdb
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\obj\Debug\Back Tracking.csproj.AssemblyReference.cache
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\obj\Debug\Back Tracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\obj\Debug\Back Tracking.csproj.CoreCompileInputs.cache
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\obj\Debug\Back Tracking.exe
+C:\Users\luong\source\repos\LearnCSharpe\Back Tracking\obj\Debug\Back Tracking.pdb
